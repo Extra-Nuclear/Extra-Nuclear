@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... nothing
 - 😄 Pronouns: nothing
-- ⚡ Fun fact: facts arn't fun
+- ⚡ Fun fact: facts aren't fun
 
 <!---
 Extra-Nuclear/Extra-Nuclear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
